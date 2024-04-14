@@ -1,6 +1,6 @@
 {
-  "name": "karnovah",
-  "version": "1.0.2",
+  "name": "karnovah-adk",
+  "version": "1.0.0",
   "type": "module",
   "moduleResolution": "node",
   "description": "",
